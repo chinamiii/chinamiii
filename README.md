@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chinamiii/chinamiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Profiel
+|  key  |  value  |
+| ---- | ---- |
+|  名前  |  堀千浪  |
+
+
+# Career
+|  年|  月|経歴 |
+| :---: | :---: | :---: |
+| 2021年 |7月| HTML&CSSの学習 |
+| 2021年　|8月| DMMWEBCAMP入学 |
+| 2021年　|8月| Ruby on Railsを用いたWebアプリ開発の学習 |
+| 2021年|9月| Ruby on Railsでチーム開発　（ECサイト「長野ケーキ」の作成）|
+| 2021年|10月| Ruby on Railsでポートフォリオ「[@Jewelog](http://54.95.82.200/)」の開発、AWS EC2の学習 |
+
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinamiii&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chinamiii&theme=cobalt&show_icons=ture" />
+</p>
