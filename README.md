@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Profiel
-|  key  |  value  |
-| ---- | ---- |
-|  名前  |  堀千浪  |
+* プロフ
+    * 堀千浪
+    * 大阪府在住
+* 目標にしていること
+    * 一日一回GitHubに草を生やすこと
+    
+
 
 
 # Career
