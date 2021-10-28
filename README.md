@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 # Career
 |  年|  月|経歴 |
 | :---: | :---: | :---: |
-| 2021年 |7月| HTML&CSSの学習 |
-| 2021年　|8月| DMMWEBCAMP入学 |
-| 2021年　|8月| Ruby on Railsを用いたWebアプリ開発の学習 |
-| 2021年|9月| Ruby on Railsでチーム開発　（ECサイト「長野ケーキ」の作成）|
-| 2021年|10月| Ruby on Railsでポートフォリオ「[@Jewelog](http://54.95.82.200/)」の開発、AWS EC2の学習 |
+|2021年|7月| HTML&CSSの学習 |
+|2021年|8月| DMMWEBCAMP入学 |
+|2021年|8月| Ruby on Railsを用いたWebアプリ開発の学習 |
+|2021年|9月| Ruby on Railsでチーム開発　（ECサイト「長野ケーキ」の作成）|
+|2021年|10月| Ruby on Railsでポートフォリオ「[@Jewelog](http://54.95.82.200/)」の開発、AWS EC2の学習 |
 
 
 <p align="left"> 
