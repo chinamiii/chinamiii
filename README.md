@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Profiel
-* プロフ
+* 自己紹介
     * 堀千浪
-    * 大阪府在住
+    * 大阪出身
+    * 8月からDMMWEBCAMPの専門技術コース(4ヶ月)を受講
 * 目標にしていること
     * 一日一回GitHubに草を生やすこと
+    
     
 
 
