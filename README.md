@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 |2021年|9月| Ruby on Railsでチーム開発（ECサイト「ながのケーキ」作成）|
 |2021年|10月| AWS EC2 Mysqlの学習 |
 |2021年|10月| Ruby on Railsでポートフォリオ「[@Jewelog](http://54.95.82.200/)」の開発 |
+|2021年|11月| 「[@Jewelog](http://54.95.82.200/)」に自然言語処理機能を追加 |
+|2021年|11月| Python pandas numpy matplotlip の学習 |
 
 
 <p align="left"> 
