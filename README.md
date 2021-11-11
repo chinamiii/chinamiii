@@ -17,14 +17,14 @@ Here are some ideas to get you started:
     * 堀千浪
     * 大阪出身
     * 8月からDMMWEBCAMPの専門技術コース(4ヶ月)を受講
-* 目標にしていること
-    * 一日一回GitHubに草を生やすこと
+* 目標
+    * 一日一回GitHubに草を生やす
     
     
 
 
 
-# Career
+# StydyCareer
 |  年|  月|経歴 |
 | :---: | :---: | :---: |
 |2021年|7月| HTML&CSS,rubyの学習 |
