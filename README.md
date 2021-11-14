@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     * 堀千浪
     * 大阪出身
     * 8月からDMMWEBCAMPの専門技術コース(4ヶ月)を受講
-* 目標
+* 学習目標
     * 一日一回GitHubに草を生やす
     
     
