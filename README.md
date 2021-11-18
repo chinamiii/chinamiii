@@ -17,6 +17,7 @@ Here are some ideas to get you started:
     * 堀千浪
     * 大阪出身
     * 8月からDMMWEBCAMPの専門技術コースを受講
+    * 12月から1st stepのJava基礎コースを受講予定
 * 学習目標
     * 一日一回GitHubに草を生やす
     * 1月までにJavaの基礎を身につける
