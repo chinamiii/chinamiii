@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     * 堀千浪
     * 大阪出身
     * 8月からDMMWEBCAMPの専門技術コースを受講
-    * 12月から1st stepのJava基礎コースを受講予定
+    * 11月から1st stepのJava基礎コースを受講
 * 学習目標
     * 一日一回GitHubに草を生やす
     * 1月までにJavaの基礎を身につける
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 |2021年|10月| Ruby on Railsでポートフォリオ「[@Jewelog](http://54.95.82.200/)」の開発 |
 |2021年|11月| 「[@Jewelog](http://54.95.82.200/)」に自然言語処理機能を追加 |
 |2021年|11月| Python pandas numpy matplotlip の学習 |
+|2021年|11月| 1st_step Java基礎コース受講 |
 
 
 <p align="left"> 
