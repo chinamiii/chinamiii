@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-# StydyCareer
+# StudyCareer
 |  年|  月|経歴 |
 | :---: | :---: | :---: |
 |2021年|7月| HTML&CSS,rubyの学習 |
