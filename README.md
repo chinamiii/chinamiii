@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     * 11月から1st stepのJava基礎コースを受講
 * 学習目標
     * 一日一回GitHubに草を生やす
-    * 1月までにJavaの基礎を身につける
+    * 年内にJavaの基礎を身につける
     
     
     
