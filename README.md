@@ -18,9 +18,11 @@ Here are some ideas to get you started:
     * 大阪出身
     * 8月からDMMWEBCAMPの専門技術コースを受講
     * 11月から1st stepのJava基礎コースを受講
+    * Linux勉強中
 * 学習目標
     * 一日一回GitHubに草を生やす
     * 年内にJavaの基礎を身につける
+    
     
     
     
