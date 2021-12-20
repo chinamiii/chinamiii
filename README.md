@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 |2021年|10月| Ruby on Railsでポートフォリオ「[@Jewelog](http://54.95.82.200/)」の開発 |
 |2021年|11月| 「[@Jewelog](http://54.95.82.200/)」に自然言語処理機能を追加 |
 |2021年|11月| Python pandas numpy matplotlip の学習 |
-|2021年|11月| 1st_step Java基礎コース受講 |
-
+|2021年|11月| 1st_step Java基礎コース受講開始 |
+|2021年|12月| Linuc学習スタート |
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinamiii&layout=compact&show_icons=true&theme=cobalt" />
