@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * 学習目標
     * 一日一回GitHubに草を生やす
     * 年内にJavaの基礎を身につける
+    * Excel,powerpointを年内にマスターする
     
     
     
