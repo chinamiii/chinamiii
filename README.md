@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     * 8月からDMMWEBCAMPの専門技術コースを受講
     * 11月から1st stepのJava基礎コースを受講
     * Linuc勉強中(レベル1を3月までに受講目標)
-    * Excel,powerpoint,word学習中
+    * Excel,powerpoint,word学習
 
     
     
