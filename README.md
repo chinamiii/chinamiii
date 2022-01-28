@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     * 大阪出身
     * 8月からDMMWEBCAMPの専門技術コースを受講
     * 11月から1st stepのJava基礎コースを受講
-    * Linuc(レベル１)勉強中
+    * Linuc勉強中
     * Excel学習中
 
     
