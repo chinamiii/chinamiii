@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     * 11月から1st stepのJava基礎コースを受講
     * Linuc勉強中
     * Excel学習中
+    * 基本情報技術者試験に向けて学習中
 
     
     
